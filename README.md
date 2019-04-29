@@ -1,2 +1,1 @@
-# git-it
-Test git stuff
+Do Readme
